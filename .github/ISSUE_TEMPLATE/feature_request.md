@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest something for the game
 title: ''
 labels: feature request
-assignees: 404CoderNotFound
+assignees: 404CoderNotFound, pjstarr12, Dawid23-Gamer
 
 ---
 
