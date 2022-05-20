@@ -1,20 +1,17 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest something for the game
 title: ''
-labels: ''
-assignees: ''
+labels: feature request
+assignees: 404CoderNotFound
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Feature description**
+Describe the requested feature. Is it a new spawnable item? Is it a new map? A new mechanic or system? How does it work?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Feature purpose**
+Describe the purpose here. What made you request this feature? What is its purpose? Are you sure it doesn't already exist in some form?
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
