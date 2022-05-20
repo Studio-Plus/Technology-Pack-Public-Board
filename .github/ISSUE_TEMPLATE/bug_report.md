@@ -1,38 +1,29 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: 'Create a report '
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: 404CoderNotFound
 
 ---
 
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Clearly describe how to reproduce the bug**
+Steps to reproduce the problem.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Mod list**
+Include a list of your mods here and specifiy whether they're activated or not. Make sure to include deactivated mods, as they could still have an effect.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**System info (please complete the following information)**
+ - Operating system: 
+ - Mod version:
+ - GPU:
+ - CPU:
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+<!--- 
+Alternatively, you can attach the "exported game debug info.md" file and omit all the game and system information. You can generate this file by pressing the button in the Information page in the game. 
+--->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Additional notes**
