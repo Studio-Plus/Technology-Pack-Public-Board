@@ -1,5 +1,5 @@
 # Technology Pack Public Board
-Bugs and requests for the mod 'Technology Pack' by Studio Plus.
+Bugs and requests for the project 'Technology Pack' by Studio Plus.
 
 There are 7 categories of technologies in this mod: Augmentations, Entities, Explosives, Firearms, Melees and Vehicles, as well as a miscellaneous items.
 
