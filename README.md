@@ -8,3 +8,5 @@ There are 7 categories of technologies in this mod: Augmentations, Entities, Exp
 If you are suggesting something for one of the 7 technologies categories, remember they need to be future-esk (most important to remember for firearms, malees and vehicles)
 
 Miscellaneous items usually probably will be cool or functional clothes or clothing items, like sunglasses (yes, this item will be addded in this mod)
+
+Everyone who suggests ideas will be credited accordingly.
